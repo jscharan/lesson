@@ -1,4 +1,4 @@
-#Git Notes
+#Git Notes By CHARAN
 
 - `git init` : Intitalize current folder as git repositry
 - `git clone <URL>`: brings git repo from url to current folder
@@ -22,7 +22,7 @@
 - `.gitkeep` : create this file in empty folder to keep track of empty folders
 - `.gitignore` : this file contsains the list of the files that should be ignored by git
   
-  ##Remote 
+  ##Remote Topic
   
 - `git remote add <NAME> <URL>` : adds the <URL> as aremote with the name <NAME>
   - <NAME> is by convention called "origin"
