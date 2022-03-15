@@ -26,3 +26,5 @@
 - `git remote rm <NAME>` removes remote called Name
 - `git push <WHERE> <WHAT>` : pushes the <WHAT> branch to <WHERE>
   - ex : git push origin main
+
+- `git pull <WHERE> <WHAT>` : pulls <WHAT> branch from <WHERE>
