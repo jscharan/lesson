@@ -13,3 +13,6 @@
   - 'git diff --staged' : runs git diff btw staging area and last known state
   - 'git dif HEAD~<NUMBER>' : compares head with commit <NUMBER> ago (relative)
   - 'git diff <HASH>' : compares head with the commit in hash
+
+- ' .gitkeep ' : create this file in empty folder to keep track of empty folders
+- ' .gitignore ' : this file contsains the list of the files that should be ignored by git
