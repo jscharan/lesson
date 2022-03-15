@@ -19,6 +19,8 @@
   - `git dif HEAD~<NUMBER>` : compares head with commit <NUMBER> ago (relative)
   - `git diff <HASH>` : compares head with the commit in hash
 
+#branch
+ git switch -c <Name> : creates a branch and switches to the branch
 - `.gitkeep` : create this file in empty folder to keep track of empty folders
 - `.gitignore` : this file contsains the list of the files that should be ignored by git
 
