@@ -1,3 +1,5 @@
+#Git Notes
+
 - `git init` : Intitalize current folder as git repositry
 - `git clone <URL>`: brings git repo from url to current folder
 - `git status` : Tells us what we need to know about our repository
@@ -25,6 +27,7 @@
 - `git remote -v` : loo at all the remotes we have
 - `git remote rm <NAME>` removes remote called Name
 - `git push <WHERE> <WHAT>` : pushes the <WHAT> branch to <WHERE>
+
   - ex : git push origin main
 
 - `git pull <WHERE> <WHAT>` : pulls <WHAT> branch from <WHERE>
