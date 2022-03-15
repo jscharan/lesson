@@ -21,7 +21,9 @@
 
 - `.gitkeep` : create this file in empty folder to keep track of empty folders
 - `.gitignore` : this file contsains the list of the files that should be ignored by git
-
+  
+  ##Remote 
+  
 - `git remote add <NAME> <URL>` : adds the <URL> as aremote with the name <NAME>
   - <NAME> is by convention called "origin"
 - `git remote -v` : loo at all the remotes we have
