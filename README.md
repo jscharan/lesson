@@ -35,3 +35,7 @@
   - ex : git push origin main
 
 - `git pull <WHERE> <WHAT>` : pulls <WHAT> branch from <WHERE>
+
+#skills
+touch type,
+read books
