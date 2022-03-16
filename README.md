@@ -35,3 +35,11 @@
   - ex : git push origin main
 
 - `git pull <WHERE> <WHAT>` : pulls <WHAT> branch from <WHERE>
+
+#skills
+touch type,
+read books
+
+#DISCLAIMER :  
+ThIS REPO IS USED FOR LEARNING PURPOSES ONLY 😊
+
