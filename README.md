@@ -39,3 +39,7 @@
 #skills
 touch type,
 read books
+
+#DISCLAIMER :  
+ThIS REPO IS USED FOR LEARNING PURPOSES ONLY 😊
+
